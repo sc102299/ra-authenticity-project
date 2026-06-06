@@ -1,0 +1,51 @@
+ticker,company_name,sector,about_url
+MSFT,Microsoft,Technology,https://www.microsoft.com/en-us/about
+AAPL,Apple,Technology,https://investor.apple.com/our_values/default.aspx
+NVDA,NVIDIA,Technology,https://www.nvidia.com/en-us/about-nvidia/
+GOOGL,Alphabet,Technology, https://about.google/company-info/
+META,Meta Platforms,Technology,https://www.meta.com/about/company-info/?srsltid=AfmBOoqiAEpPdIKFLwX3h9JYC2ExS5EL5pxouj8K8NLL6h7rmTbqfUKR
+AVGO,Broadcom,Technology,https://www.broadcom.com/company/about-us
+CRM,Salesforce,Technology,https://www.salesforce.com/company/our-values/
+ORCL,Oracle,Technology,https://www.oracle.com/careers/life-at-oracle/
+IBM,IBM,Technology,https://www.comparably.com/companies/ibm/mission
+INTC,Intel,Technology,https://www.intel.com/content/www/us/en/support/articles/000015119/programs.html
+BRK.B,Berkshire Hathaway,Financials,https://berkshire.com/about-us/corporate-profile/mission-values/?srsltid=AfmBOoqz0qV0XMQ6dLKO4tiAp28CUphKkmRGHHTHzRxf5eYxbvA_53t0
+JPM,JPMorgan Chase,Financials,https://www.jpmorganchase.com/about
+BAC,Bank of America,Financials,https://about.bankofamerica.com/en/our-company
+WFC,Wells Fargo,Financials,https://www.wellsfargo.com/about/
+GS,Goldman Sachs,Financials,https://www.goldmansachs.com/our-firm/purpose-and-values
+MS,Morgan Stanley,Financials,https://www.morganstanley.com/about-us
+BLK,BlackRock,Financials,https://www.blackrock.com/corporate/about-us
+SCHW,Charles Schwab,Financials,https://www.schwabjobs.com/aboutschwab
+AXP,American Express,Financials,https://www.americanexpress.com/en-us/company/who-we-are/
+C,Citigroup,Financials,https://www.citigroup.com/global/about-us
+LLY,Eli Lilly,Healthcare,https://www.lilly.com/about
+UNH,UnitedHealth Group,Healthcare,https://www.unitedhealthgroup.com/uhg/mission-values.html
+JNJ,Johnson & Johnson,Healthcare,https://www.jnj.com/credo-purpose
+ABBV,AbbVie,Healthcare,https://www.abbvie.com/who-we-are.html
+MRK,Merck,Healthcare,https://www.merck.com/company-overview/culture-and-values/
+TMO,Thermo Fisher Scientific,Healthcare,https://corporate.thermofisher.com/us/en/index/about.html
+ABT,Abbott Laboratories,Healthcare,https://www.abbott.com/en-us/about-abbott
+PFE,Pfizer,Healthcare,https://www.pfizer.com/about/careers/en-ir/about-pfizer
+MDT,Medtronic,Healthcare,https://www.medtronic.com/en-us/our-company/mission.html
+BMY,Bristol-Myers Squibb,Healthcare,https://www.bms.com/about-us/our-impact.html
+AMZN,Amazon,Consumer Discretionary,https://www.aboutamazon.com/about-us
+TSLA,Tesla,Consumer Discretionary,https://www.tesla.com/about
+HD,Home Depot,Consumer Discretionary,https://corporate.homedepot.com/page/our-values
+MCD,McDonald's,Consumer Discretionary,https://corporate.mcdonalds.com/corpmcd/our-company/who-we-are/our-values.html
+NKE,Nike,Consumer Discretionary,https://about.nike.com/en/mission
+SBUX,Starbucks,Consumer Discretionary,https://about.starbucks.com/mission/
+TGT,Target,Consumer Discretionary,https://corporate.target.com/about/purpose-history
+LOW,Lowe's,Consumer Discretionary,https://corporate.lowes.com/who-we-are
+TJX,TJX Companies,Consumer Discretionary,https://www.tjx.com/company/about-tjx
+F,Ford Motor,Consumer Discretionary,https://corporate.ford.com/about/purpose/www/
+XOM,ExxonMobil,Energy,https://corporate.exxonmobil.com/who-we-are
+CVX,Chevron,Energy,https://www.chevron.com/who-we-are/culture/the-chevron-way
+COP,ConocoPhillips,Energy,https://www.conocophillips.com/about-us/who-we-are/
+EOG,EOG Resources,Energy,https://www.eogresources.com/sustainability/
+SLB,SLB (Schlumberger),Energy,https://www.slb.com/about/who-we-are
+MPC,Marathon Petroleum,Energy,https://www.marathonpetroleum.com/About/Our-Values/
+PSX,Phillips 66,Energy,https://www.phillips66.com/our-people/
+VLO,Valero Energy,Energy,https://www.valero.com/about
+OXY,Occidental Petroleum,Energy,https://www.oxy.com/investors/governance/political-contributions-and-lobbying/
+HAL,Halliburton,Energy,https://www.halliburton.com/en/sustainability/guiding-principles

@@ -1,0 +1,451 @@
+ticker,company_name,sector,year,about_url,snapshot_timestamp,snapshot_url,target_timestamp,status,missing_reason,statuscode
+MSFT,Microsoft,Technology,2016,https://www.microsoft.com/en-us/about,20160702232755,http://web.archive.org/web/20160702232755/http://www.microsoft.com:80/en-us/about,20160701,found,,200
+MSFT,Microsoft,Technology,2017,https://www.microsoft.com/en-us/about,,,20170701,missing,No closest snapshot found from Wayback Availability API,
+MSFT,Microsoft,Technology,2018,https://www.microsoft.com/en-us/about,,,20180701,missing,No closest snapshot found from Wayback Availability API,
+MSFT,Microsoft,Technology,2019,https://www.microsoft.com/en-us/about,20190702051350,http://web.archive.org/web/20190702051350/https://www.microsoft.com/en-us/about,20190701,found,,200
+MSFT,Microsoft,Technology,2020,https://www.microsoft.com/en-us/about,20200701214157,http://web.archive.org/web/20200701214157/https://www.microsoft.com/en-us/about,20200701,found,,200
+MSFT,Microsoft,Technology,2021,https://www.microsoft.com/en-us/about,20210702005452,http://web.archive.org/web/20210702005452/https://www.microsoft.com/en-us/about,20210701,found,,200
+MSFT,Microsoft,Technology,2022,https://www.microsoft.com/en-us/about,,,20220701,missing,No closest snapshot found from Wayback Availability API,
+MSFT,Microsoft,Technology,2023,https://www.microsoft.com/en-us/about,20230701210705,http://web.archive.org/web/20230701210705/https://www.microsoft.com/en-us/about,20230701,found,,200
+MSFT,Microsoft,Technology,2024,https://www.microsoft.com/en-us/about,20240701230101,http://web.archive.org/web/20240701230101/https://www.microsoft.com/en-us/about,20240701,found,,200
+AAPL,Apple,Technology,2016,https://investor.apple.com/our_values/default.aspx,20240721115837,http://web.archive.org/web/20240721115837/https://investor.apple.com/our_values/default.aspx,20160701,found,,200
+AAPL,Apple,Technology,2017,https://investor.apple.com/our_values/default.aspx,,,20170701,missing,No closest snapshot found from Wayback Availability API,
+AAPL,Apple,Technology,2018,https://investor.apple.com/our_values/default.aspx,20240721115837,http://web.archive.org/web/20240721115837/https://investor.apple.com/our_values/default.aspx,20180701,found,,200
+AAPL,Apple,Technology,2019,https://investor.apple.com/our_values/default.aspx,,,20190701,missing,No closest snapshot found from Wayback Availability API,
+AAPL,Apple,Technology,2020,https://investor.apple.com/our_values/default.aspx,20240721115837,http://web.archive.org/web/20240721115837/https://investor.apple.com/our_values/default.aspx,20200701,found,,200
+AAPL,Apple,Technology,2021,https://investor.apple.com/our_values/default.aspx,20240721115837,http://web.archive.org/web/20240721115837/https://investor.apple.com/our_values/default.aspx,20210701,found,,200
+AAPL,Apple,Technology,2022,https://investor.apple.com/our_values/default.aspx,20240721115837,http://web.archive.org/web/20240721115837/https://investor.apple.com/our_values/default.aspx,20220701,found,,200
+AAPL,Apple,Technology,2023,https://investor.apple.com/our_values/default.aspx,,,20230701,missing,No closest snapshot found from Wayback Availability API,
+AAPL,Apple,Technology,2024,https://investor.apple.com/our_values/default.aspx,,,20240701,missing,No closest snapshot found from Wayback Availability API,
+NVDA,NVIDIA,Technology,2016,https://www.nvidia.com/en-us/about-nvidia/,20161129032458,http://web.archive.org/web/20161129032458/https://www2.nvidia.com/en-us/about-nvidia/,20160701,found,,200
+NVDA,NVIDIA,Technology,2017,https://www.nvidia.com/en-us/about-nvidia/,20161129032458,http://web.archive.org/web/20161129032458/https://www2.nvidia.com/en-us/about-nvidia/,20170701,found,,200
+NVDA,NVIDIA,Technology,2018,https://www.nvidia.com/en-us/about-nvidia/,20180809002337,http://web.archive.org/web/20180809002337/https://www.nvidia.com/en-us/about-nvidia/,20180701,found,,200
+NVDA,NVIDIA,Technology,2019,https://www.nvidia.com/en-us/about-nvidia/,,,20190701,missing,No closest snapshot found from Wayback Availability API,
+NVDA,NVIDIA,Technology,2020,https://www.nvidia.com/en-us/about-nvidia/,20200626063746,http://web.archive.org/web/20200626063746/https://www.nvidia.com/en-us/about-nvidia/,20200701,found,,200
+NVDA,NVIDIA,Technology,2021,https://www.nvidia.com/en-us/about-nvidia/,,,20210701,missing,No closest snapshot found from Wayback Availability API,
+NVDA,NVIDIA,Technology,2022,https://www.nvidia.com/en-us/about-nvidia/,20220627150725,http://web.archive.org/web/20220627150725/https://www.nvidia.com/en-us/about-nvidia/,20220701,found,,200
+NVDA,NVIDIA,Technology,2023,https://www.nvidia.com/en-us/about-nvidia/,20230627231136,http://web.archive.org/web/20230627231136/https://www.nvidia.com/en-us/about-nvidia/,20230701,found,,200
+NVDA,NVIDIA,Technology,2024,https://www.nvidia.com/en-us/about-nvidia/,20240701211926,http://web.archive.org/web/20240701211926/https://www.nvidia.com/en-us/about-nvidia/,20240701,found,,200
+GOOGL,Alphabet,Technology,2016, https://about.google/company-info/,,,20160701,missing,No closest snapshot found from Wayback Availability API,
+GOOGL,Alphabet,Technology,2017, https://about.google/company-info/,,,20170701,missing,No closest snapshot found from Wayback Availability API,
+GOOGL,Alphabet,Technology,2018, https://about.google/company-info/,,,20180701,missing,No closest snapshot found from Wayback Availability API,
+GOOGL,Alphabet,Technology,2019, https://about.google/company-info/,,,20190701,missing,No closest snapshot found from Wayback Availability API,
+GOOGL,Alphabet,Technology,2020, https://about.google/company-info/,,,20200701,missing,No closest snapshot found from Wayback Availability API,
+GOOGL,Alphabet,Technology,2021, https://about.google/company-info/,,,20210701,missing,No closest snapshot found from Wayback Availability API,
+GOOGL,Alphabet,Technology,2022, https://about.google/company-info/,,,20220701,missing,No closest snapshot found from Wayback Availability API,
+GOOGL,Alphabet,Technology,2023, https://about.google/company-info/,,,20230701,missing,No closest snapshot found from Wayback Availability API,
+GOOGL,Alphabet,Technology,2024, https://about.google/company-info/,,,20240701,missing,No closest snapshot found from Wayback Availability API,
+META,Meta Platforms,Technology,2016,https://www.meta.com/about/company-info/?srsltid=AfmBOoqiAEpPdIKFLwX3h9JYC2ExS5EL5pxouj8K8NLL6h7rmTbqfUKR,,,20160701,missing,No closest snapshot found from Wayback Availability API,
+META,Meta Platforms,Technology,2017,https://www.meta.com/about/company-info/?srsltid=AfmBOoqiAEpPdIKFLwX3h9JYC2ExS5EL5pxouj8K8NLL6h7rmTbqfUKR,,,20170701,missing,No closest snapshot found from Wayback Availability API,
+META,Meta Platforms,Technology,2018,https://www.meta.com/about/company-info/?srsltid=AfmBOoqiAEpPdIKFLwX3h9JYC2ExS5EL5pxouj8K8NLL6h7rmTbqfUKR,,,20180701,missing,No closest snapshot found from Wayback Availability API,
+META,Meta Platforms,Technology,2019,https://www.meta.com/about/company-info/?srsltid=AfmBOoqiAEpPdIKFLwX3h9JYC2ExS5EL5pxouj8K8NLL6h7rmTbqfUKR,,,20190701,missing,No closest snapshot found from Wayback Availability API,
+META,Meta Platforms,Technology,2020,https://www.meta.com/about/company-info/?srsltid=AfmBOoqiAEpPdIKFLwX3h9JYC2ExS5EL5pxouj8K8NLL6h7rmTbqfUKR,,,20200701,missing,No closest snapshot found from Wayback Availability API,
+META,Meta Platforms,Technology,2021,https://www.meta.com/about/company-info/?srsltid=AfmBOoqiAEpPdIKFLwX3h9JYC2ExS5EL5pxouj8K8NLL6h7rmTbqfUKR,,,20210701,missing,No closest snapshot found from Wayback Availability API,
+META,Meta Platforms,Technology,2022,https://www.meta.com/about/company-info/?srsltid=AfmBOoqiAEpPdIKFLwX3h9JYC2ExS5EL5pxouj8K8NLL6h7rmTbqfUKR,,,20220701,missing,No closest snapshot found from Wayback Availability API,
+META,Meta Platforms,Technology,2023,https://www.meta.com/about/company-info/?srsltid=AfmBOoqiAEpPdIKFLwX3h9JYC2ExS5EL5pxouj8K8NLL6h7rmTbqfUKR,,,20230701,missing,No closest snapshot found from Wayback Availability API,
+META,Meta Platforms,Technology,2024,https://www.meta.com/about/company-info/?srsltid=AfmBOoqiAEpPdIKFLwX3h9JYC2ExS5EL5pxouj8K8NLL6h7rmTbqfUKR,,,20240701,missing,No closest snapshot found from Wayback Availability API,
+AVGO,Broadcom,Technology,2016,https://www.broadcom.com/company/about-us,,,20160701,missing,No closest snapshot found from Wayback Availability API,
+AVGO,Broadcom,Technology,2017,https://www.broadcom.com/company/about-us,20170712084805,http://web.archive.org/web/20170712084805/https://www.broadcom.com/company/about-us/,20170701,found,,200
+AVGO,Broadcom,Technology,2018,https://www.broadcom.com/company/about-us,,,20180701,missing,No closest snapshot found from Wayback Availability API,
+AVGO,Broadcom,Technology,2019,https://www.broadcom.com/company/about-us,,,20190701,missing,No closest snapshot found from Wayback Availability API,
+AVGO,Broadcom,Technology,2020,https://www.broadcom.com/company/about-us,20200702201159,http://web.archive.org/web/20200702201159/https://www.broadcom.com/company/about-us,20200701,found,,200
+AVGO,Broadcom,Technology,2021,https://www.broadcom.com/company/about-us,20210616142604,http://web.archive.org/web/20210616142604/https://www.broadcom.com/company/about-us,20210701,found,,200
+AVGO,Broadcom,Technology,2022,https://www.broadcom.com/company/about-us,,,20220701,missing,No closest snapshot found from Wayback Availability API,
+AVGO,Broadcom,Technology,2023,https://www.broadcom.com/company/about-us,,,20230701,missing,No closest snapshot found from Wayback Availability API,
+AVGO,Broadcom,Technology,2024,https://www.broadcom.com/company/about-us,20240702010308,http://web.archive.org/web/20240702010308/https://www.broadcom.com/company/about-us,20240701,found,,200
+CRM,Salesforce,Technology,2016,https://www.salesforce.com/company/our-values/,20251118175255,http://web.archive.org/web/20251118175255/https://www.salesforce.com/company/our-values/,20160701,found,,200
+CRM,Salesforce,Technology,2017,https://www.salesforce.com/company/our-values/,,,20170701,missing,No closest snapshot found from Wayback Availability API,
+CRM,Salesforce,Technology,2018,https://www.salesforce.com/company/our-values/,,,20180701,missing,No closest snapshot found from Wayback Availability API,
+CRM,Salesforce,Technology,2019,https://www.salesforce.com/company/our-values/,20251118175255,http://web.archive.org/web/20251118175255/https://www.salesforce.com/company/our-values/,20190701,found,,200
+CRM,Salesforce,Technology,2020,https://www.salesforce.com/company/our-values/,20251118175255,http://web.archive.org/web/20251118175255/https://www.salesforce.com/company/our-values/,20200701,found,,200
+CRM,Salesforce,Technology,2021,https://www.salesforce.com/company/our-values/,,,20210701,missing,No closest snapshot found from Wayback Availability API,
+CRM,Salesforce,Technology,2022,https://www.salesforce.com/company/our-values/,,,20220701,missing,No closest snapshot found from Wayback Availability API,
+CRM,Salesforce,Technology,2023,https://www.salesforce.com/company/our-values/,,,20230701,missing,No closest snapshot found from Wayback Availability API,
+CRM,Salesforce,Technology,2024,https://www.salesforce.com/company/our-values/,,,20240701,missing,No closest snapshot found from Wayback Availability API,
+ORCL,Oracle,Technology,2016,https://www.oracle.com/careers/life-at-oracle/,,,20160701,missing,No closest snapshot found from Wayback Availability API,
+ORCL,Oracle,Technology,2017,https://www.oracle.com/careers/life-at-oracle/,,,20170701,missing,No closest snapshot found from Wayback Availability API,
+ORCL,Oracle,Technology,2018,https://www.oracle.com/careers/life-at-oracle/,,,20180701,missing,No closest snapshot found from Wayback Availability API,
+ORCL,Oracle,Technology,2019,https://www.oracle.com/careers/life-at-oracle/,,,20190701,missing,No closest snapshot found from Wayback Availability API,
+ORCL,Oracle,Technology,2020,https://www.oracle.com/careers/life-at-oracle/,,,20200701,missing,No closest snapshot found from Wayback Availability API,
+ORCL,Oracle,Technology,2021,https://www.oracle.com/careers/life-at-oracle/,20251012160108,http://web.archive.org/web/20251012160108/https://www.oracle.com/careers/life-at-oracle/,20210701,found,,200
+ORCL,Oracle,Technology,2022,https://www.oracle.com/careers/life-at-oracle/,,,20220701,missing,No closest snapshot found from Wayback Availability API,
+ORCL,Oracle,Technology,2023,https://www.oracle.com/careers/life-at-oracle/,,,20230701,missing,No closest snapshot found from Wayback Availability API,
+ORCL,Oracle,Technology,2024,https://www.oracle.com/careers/life-at-oracle/,20251012160108,http://web.archive.org/web/20251012160108/https://www.oracle.com/careers/life-at-oracle/,20240701,found,,200
+IBM,IBM,Technology,2016,https://www.comparably.com/companies/ibm/mission,,,20160701,missing,No closest snapshot found from Wayback Availability API,
+IBM,IBM,Technology,2017,https://www.comparably.com/companies/ibm/mission,,,20170701,missing,No closest snapshot found from Wayback Availability API,
+IBM,IBM,Technology,2018,https://www.comparably.com/companies/ibm/mission,,,20180701,missing,No closest snapshot found from Wayback Availability API,
+IBM,IBM,Technology,2019,https://www.comparably.com/companies/ibm/mission,,,20190701,missing,No closest snapshot found from Wayback Availability API,
+IBM,IBM,Technology,2020,https://www.comparably.com/companies/ibm/mission,,,20200701,missing,No closest snapshot found from Wayback Availability API,
+IBM,IBM,Technology,2021,https://www.comparably.com/companies/ibm/mission,,,20210701,missing,No closest snapshot found from Wayback Availability API,
+IBM,IBM,Technology,2022,https://www.comparably.com/companies/ibm/mission,,,20220701,missing,No closest snapshot found from Wayback Availability API,
+IBM,IBM,Technology,2023,https://www.comparably.com/companies/ibm/mission,,,20230701,missing,No closest snapshot found from Wayback Availability API,
+IBM,IBM,Technology,2024,https://www.comparably.com/companies/ibm/mission,,,20240701,missing,No closest snapshot found from Wayback Availability API,
+INTC,Intel,Technology,2016,https://www.intel.com/content/www/us/en/support/articles/000015119/programs.html,20210619223829,http://web.archive.org/web/20210619223829/https://www.intel.com/content/www/us/en/support/articles/000015119/programs.html,20160701,found,,200
+INTC,Intel,Technology,2017,https://www.intel.com/content/www/us/en/support/articles/000015119/programs.html,,,20170701,missing,No closest snapshot found from Wayback Availability API,
+INTC,Intel,Technology,2018,https://www.intel.com/content/www/us/en/support/articles/000015119/programs.html,,,20180701,missing,No closest snapshot found from Wayback Availability API,
+INTC,Intel,Technology,2019,https://www.intel.com/content/www/us/en/support/articles/000015119/programs.html,20210619223829,http://web.archive.org/web/20210619223829/https://www.intel.com/content/www/us/en/support/articles/000015119/programs.html,20190701,found,,200
+INTC,Intel,Technology,2020,https://www.intel.com/content/www/us/en/support/articles/000015119/programs.html,,,20200701,missing,No closest snapshot found from Wayback Availability API,
+INTC,Intel,Technology,2021,https://www.intel.com/content/www/us/en/support/articles/000015119/programs.html,,,20210701,missing,No closest snapshot found from Wayback Availability API,
+INTC,Intel,Technology,2022,https://www.intel.com/content/www/us/en/support/articles/000015119/programs.html,,,20220701,missing,No closest snapshot found from Wayback Availability API,
+INTC,Intel,Technology,2023,https://www.intel.com/content/www/us/en/support/articles/000015119/programs.html,,,20230701,missing,No closest snapshot found from Wayback Availability API,
+INTC,Intel,Technology,2024,https://www.intel.com/content/www/us/en/support/articles/000015119/programs.html,20240522154713,http://web.archive.org/web/20240522154713/https://www.intel.com/content/www/us/en/support/articles/000015119/programs.html,20240701,found,,200
+BRK.B,Berkshire Hathaway,Financials,2016,https://berkshire.com/about-us/corporate-profile/mission-values/?srsltid=AfmBOoqz0qV0XMQ6dLKO4tiAp28CUphKkmRGHHTHzRxf5eYxbvA_53t0,,,20160701,missing,No closest snapshot found from Wayback Availability API,
+BRK.B,Berkshire Hathaway,Financials,2017,https://berkshire.com/about-us/corporate-profile/mission-values/?srsltid=AfmBOoqz0qV0XMQ6dLKO4tiAp28CUphKkmRGHHTHzRxf5eYxbvA_53t0,,,20170701,missing,No closest snapshot found from Wayback Availability API,
+BRK.B,Berkshire Hathaway,Financials,2018,https://berkshire.com/about-us/corporate-profile/mission-values/?srsltid=AfmBOoqz0qV0XMQ6dLKO4tiAp28CUphKkmRGHHTHzRxf5eYxbvA_53t0,,,20180701,missing,No closest snapshot found from Wayback Availability API,
+BRK.B,Berkshire Hathaway,Financials,2019,https://berkshire.com/about-us/corporate-profile/mission-values/?srsltid=AfmBOoqz0qV0XMQ6dLKO4tiAp28CUphKkmRGHHTHzRxf5eYxbvA_53t0,,,20190701,missing,No closest snapshot found from Wayback Availability API,
+BRK.B,Berkshire Hathaway,Financials,2020,https://berkshire.com/about-us/corporate-profile/mission-values/?srsltid=AfmBOoqz0qV0XMQ6dLKO4tiAp28CUphKkmRGHHTHzRxf5eYxbvA_53t0,,,20200701,missing,No closest snapshot found from Wayback Availability API,
+BRK.B,Berkshire Hathaway,Financials,2021,https://berkshire.com/about-us/corporate-profile/mission-values/?srsltid=AfmBOoqz0qV0XMQ6dLKO4tiAp28CUphKkmRGHHTHzRxf5eYxbvA_53t0,,,20210701,missing,No closest snapshot found from Wayback Availability API,
+BRK.B,Berkshire Hathaway,Financials,2022,https://berkshire.com/about-us/corporate-profile/mission-values/?srsltid=AfmBOoqz0qV0XMQ6dLKO4tiAp28CUphKkmRGHHTHzRxf5eYxbvA_53t0,,,20220701,missing,No closest snapshot found from Wayback Availability API,
+BRK.B,Berkshire Hathaway,Financials,2023,https://berkshire.com/about-us/corporate-profile/mission-values/?srsltid=AfmBOoqz0qV0XMQ6dLKO4tiAp28CUphKkmRGHHTHzRxf5eYxbvA_53t0,,,20230701,missing,No closest snapshot found from Wayback Availability API,
+BRK.B,Berkshire Hathaway,Financials,2024,https://berkshire.com/about-us/corporate-profile/mission-values/?srsltid=AfmBOoqz0qV0XMQ6dLKO4tiAp28CUphKkmRGHHTHzRxf5eYxbvA_53t0,,,20240701,missing,No closest snapshot found from Wayback Availability API,
+JPM,JPMorgan Chase,Financials,2016,https://www.jpmorganchase.com/about,,,20160701,missing,No closest snapshot found from Wayback Availability API,
+JPM,JPMorgan Chase,Financials,2017,https://www.jpmorganchase.com/about,,,20170701,missing,No closest snapshot found from Wayback Availability API,
+JPM,JPMorgan Chase,Financials,2018,https://www.jpmorganchase.com/about,,,20180701,missing,No closest snapshot found from Wayback Availability API,
+JPM,JPMorgan Chase,Financials,2019,https://www.jpmorganchase.com/about,,,20190701,missing,No closest snapshot found from Wayback Availability API,
+JPM,JPMorgan Chase,Financials,2020,https://www.jpmorganchase.com/about,,,20200701,missing,No closest snapshot found from Wayback Availability API,
+JPM,JPMorgan Chase,Financials,2021,https://www.jpmorganchase.com/about,20210621230854,http://web.archive.org/web/20210621230854/https://www.jpmorganchase.com/about,20210701,found,,200
+JPM,JPMorgan Chase,Financials,2022,https://www.jpmorganchase.com/about,,,20220701,missing,No closest snapshot found from Wayback Availability API,
+JPM,JPMorgan Chase,Financials,2023,https://www.jpmorganchase.com/about,20230701133252,http://web.archive.org/web/20230701133252/https://www.jpmorganchase.com/about,20230701,found,,200
+JPM,JPMorgan Chase,Financials,2024,https://www.jpmorganchase.com/about,20240703154138,http://web.archive.org/web/20240703154138/https://www.jpmorganchase.com/about,20240701,found,,200
+BAC,Bank of America,Financials,2016,https://about.bankofamerica.com/en/our-company,,,20160701,missing,No closest snapshot found from Wayback Availability API,
+BAC,Bank of America,Financials,2017,https://about.bankofamerica.com/en/our-company,,,20170701,missing,No closest snapshot found from Wayback Availability API,
+BAC,Bank of America,Financials,2018,https://about.bankofamerica.com/en/our-company,,,20180701,missing,No closest snapshot found from Wayback Availability API,
+BAC,Bank of America,Financials,2019,https://about.bankofamerica.com/en/our-company,,,20190701,missing,No closest snapshot found from Wayback Availability API,
+BAC,Bank of America,Financials,2020,https://about.bankofamerica.com/en/our-company,,,20200701,missing,No closest snapshot found from Wayback Availability API,
+BAC,Bank of America,Financials,2021,https://about.bankofamerica.com/en/our-company,,,20210701,missing,No closest snapshot found from Wayback Availability API,
+BAC,Bank of America,Financials,2022,https://about.bankofamerica.com/en/our-company,,,20220701,missing,No closest snapshot found from Wayback Availability API,
+BAC,Bank of America,Financials,2023,https://about.bankofamerica.com/en/our-company,20230608213341,http://web.archive.org/web/20230608213341/https://about.bankofamerica.com/en/our-company,20230701,found,,200
+BAC,Bank of America,Financials,2024,https://about.bankofamerica.com/en/our-company,20240705132028,http://web.archive.org/web/20240705132028/https://about.bankofamerica.com/en/our-company,20240701,found,,200
+WFC,Wells Fargo,Financials,2016,https://www.wellsfargo.com/about/,,,20160701,missing,No closest snapshot found from Wayback Availability API,
+WFC,Wells Fargo,Financials,2017,https://www.wellsfargo.com/about/,20170701110129,http://web.archive.org/web/20170701110129/https://www.wellsfargo.com/about/,20170701,found,,200
+WFC,Wells Fargo,Financials,2018,https://www.wellsfargo.com/about/,20180630054047,http://web.archive.org/web/20180630054047/https://www.wellsfargo.com/about/,20180701,found,,200
+WFC,Wells Fargo,Financials,2019,https://www.wellsfargo.com/about/,,,20190701,missing,No closest snapshot found from Wayback Availability API,
+WFC,Wells Fargo,Financials,2020,https://www.wellsfargo.com/about/,20200701175034,http://web.archive.org/web/20200701175034/https://www.wellsfargo.com/about/,20200701,found,,200
+WFC,Wells Fargo,Financials,2021,https://www.wellsfargo.com/about/,20210624145726,http://web.archive.org/web/20210624145726/https://www.wellsfargo.com/about/,20210701,found,,200
+WFC,Wells Fargo,Financials,2022,https://www.wellsfargo.com/about/,20220626011416,http://web.archive.org/web/20220626011416/https://www.wellsfargo.com/about/,20220701,found,,200
+WFC,Wells Fargo,Financials,2023,https://www.wellsfargo.com/about/,20230701233000,http://web.archive.org/web/20230701233000/https://www.wellsfargo.com/about/,20230701,found,,200
+WFC,Wells Fargo,Financials,2024,https://www.wellsfargo.com/about/,20240701171405,http://web.archive.org/web/20240701171405/https://www.wellsfargo.com/about/,20240701,found,,200
+GS,Goldman Sachs,Financials,2016,https://www.goldmansachs.com/our-firm/purpose-and-values,,,20160701,missing,No closest snapshot found from Wayback Availability API,
+GS,Goldman Sachs,Financials,2017,https://www.goldmansachs.com/our-firm/purpose-and-values,,,20170701,missing,No closest snapshot found from Wayback Availability API,
+GS,Goldman Sachs,Financials,2018,https://www.goldmansachs.com/our-firm/purpose-and-values,,,20180701,missing,No closest snapshot found from Wayback Availability API,
+GS,Goldman Sachs,Financials,2019,https://www.goldmansachs.com/our-firm/purpose-and-values,20240801104404,http://web.archive.org/web/20240801104404/https://www.goldmansachs.com/our-firm/purpose-and-values,20190701,found,,200
+GS,Goldman Sachs,Financials,2020,https://www.goldmansachs.com/our-firm/purpose-and-values,20240801104404,http://web.archive.org/web/20240801104404/https://www.goldmansachs.com/our-firm/purpose-and-values,20200701,found,,200
+GS,Goldman Sachs,Financials,2021,https://www.goldmansachs.com/our-firm/purpose-and-values,20240801104404,http://web.archive.org/web/20240801104404/https://www.goldmansachs.com/our-firm/purpose-and-values,20210701,found,,200
+GS,Goldman Sachs,Financials,2022,https://www.goldmansachs.com/our-firm/purpose-and-values,20240801104404,http://web.archive.org/web/20240801104404/https://www.goldmansachs.com/our-firm/purpose-and-values,20220701,found,,200
+GS,Goldman Sachs,Financials,2023,https://www.goldmansachs.com/our-firm/purpose-and-values,20240801104404,http://web.archive.org/web/20240801104404/https://www.goldmansachs.com/our-firm/purpose-and-values,20230701,found,,200
+GS,Goldman Sachs,Financials,2024,https://www.goldmansachs.com/our-firm/purpose-and-values,20240801104404,http://web.archive.org/web/20240801104404/https://www.goldmansachs.com/our-firm/purpose-and-values,20240701,found,,200
+MS,Morgan Stanley,Financials,2016,https://www.morganstanley.com/about-us,,,20160701,missing,No closest snapshot found from Wayback Availability API,
+MS,Morgan Stanley,Financials,2017,https://www.morganstanley.com/about-us,20170701214004,http://web.archive.org/web/20170701214004/http://www.morganstanley.com/about-us,20170701,found,,200
+MS,Morgan Stanley,Financials,2018,https://www.morganstanley.com/about-us,20180702050329,http://web.archive.org/web/20180702050329/http://www.morganstanley.com/about-us,20180701,found,,200
+MS,Morgan Stanley,Financials,2019,https://www.morganstanley.com/about-us,20190618233102,http://web.archive.org/web/20190618233102/http://www.morganstanley.com:80/about-us,20190701,found,,200
+MS,Morgan Stanley,Financials,2020,https://www.morganstanley.com/about-us,20200708060944,http://web.archive.org/web/20200708060944/https://www.morganstanley.com/about-us,20200701,found,,200
+MS,Morgan Stanley,Financials,2021,https://www.morganstanley.com/about-us,,,20210701,missing,No closest snapshot found from Wayback Availability API,
+MS,Morgan Stanley,Financials,2022,https://www.morganstanley.com/about-us,,,20220701,missing,No closest snapshot found from Wayback Availability API,
+MS,Morgan Stanley,Financials,2023,https://www.morganstanley.com/about-us,20230701040553,http://web.archive.org/web/20230701040553/https://www.morganstanley.com/about-us,20230701,found,,200
+MS,Morgan Stanley,Financials,2024,https://www.morganstanley.com/about-us,20240703044621,http://web.archive.org/web/20240703044621/https://www.morganstanley.com/about-us,20240701,found,,200
+BLK,BlackRock,Financials,2016,https://www.blackrock.com/corporate/about-us,,,20160701,missing,No closest snapshot found from Wayback Availability API,
+BLK,BlackRock,Financials,2017,https://www.blackrock.com/corporate/about-us,,,20170701,missing,No closest snapshot found from Wayback Availability API,
+BLK,BlackRock,Financials,2018,https://www.blackrock.com/corporate/about-us,20180628205037,http://web.archive.org/web/20180628205037/https://www.blackrock.com/corporate/about-us,20180701,found,,200
+BLK,BlackRock,Financials,2019,https://www.blackrock.com/corporate/about-us,20181024201430,http://web.archive.org/web/20181024201430/https://www.blackrock.com/corporate/about-us,20190701,found,,200
+BLK,BlackRock,Financials,2020,https://www.blackrock.com/corporate/about-us,20200702134311,http://web.archive.org/web/20200702134311/https://www.blackrock.com/corporate/about-us,20200701,found,,200
+BLK,BlackRock,Financials,2021,https://www.blackrock.com/corporate/about-us,20210706123747,http://web.archive.org/web/20210706123747/https://www.blackrock.com/corporate/about-us,20210701,found,,200
+BLK,BlackRock,Financials,2022,https://www.blackrock.com/corporate/about-us,20220629111955,http://web.archive.org/web/20220629111955/https://www.blackrock.com/corporate/about-us,20220701,found,,200
+BLK,BlackRock,Financials,2023,https://www.blackrock.com/corporate/about-us,20230627230114,http://web.archive.org/web/20230627230114/https://www.blackrock.com/corporate/about-us,20230701,found,,200
+BLK,BlackRock,Financials,2024,https://www.blackrock.com/corporate/about-us,20240703150858,http://web.archive.org/web/20240703150858/https://www.blackrock.com/corporate/about-us,20240701,found,,200
+SCHW,Charles Schwab,Financials,2016,https://www.schwabjobs.com/aboutschwab,,,20160701,missing,No closest snapshot found from Wayback Availability API,
+SCHW,Charles Schwab,Financials,2017,https://www.schwabjobs.com/aboutschwab,20230206034617,http://web.archive.org/web/20230206034617/https://www.schwabjobs.com/aboutschwab,20170701,found,,200
+SCHW,Charles Schwab,Financials,2018,https://www.schwabjobs.com/aboutschwab,20230206034617,http://web.archive.org/web/20230206034617/https://www.schwabjobs.com/aboutschwab,20180701,found,,200
+SCHW,Charles Schwab,Financials,2019,https://www.schwabjobs.com/aboutschwab,,,20190701,missing,No closest snapshot found from Wayback Availability API,
+SCHW,Charles Schwab,Financials,2020,https://www.schwabjobs.com/aboutschwab,,,20200701,missing,No closest snapshot found from Wayback Availability API,
+SCHW,Charles Schwab,Financials,2021,https://www.schwabjobs.com/aboutschwab,,,20210701,missing,No closest snapshot found from Wayback Availability API,
+SCHW,Charles Schwab,Financials,2022,https://www.schwabjobs.com/aboutschwab,,,20220701,missing,No closest snapshot found from Wayback Availability API,
+SCHW,Charles Schwab,Financials,2023,https://www.schwabjobs.com/aboutschwab,20230607164018,http://web.archive.org/web/20230607164018/https://www.schwabjobs.com/aboutschwab,20230701,found,,200
+SCHW,Charles Schwab,Financials,2024,https://www.schwabjobs.com/aboutschwab,,,20240701,missing,No closest snapshot found from Wayback Availability API,
+AXP,American Express,Financials,2016,https://www.americanexpress.com/en-us/company/who-we-are/,,,20160701,missing,No closest snapshot found from Wayback Availability API,
+AXP,American Express,Financials,2017,https://www.americanexpress.com/en-us/company/who-we-are/,20230605140408,http://web.archive.org/web/20230605140408/https://www.americanexpress.com:443/en-us/company/who-we-are/,20170701,found,,200
+AXP,American Express,Financials,2018,https://www.americanexpress.com/en-us/company/who-we-are/,20230605140408,http://web.archive.org/web/20230605140408/https://www.americanexpress.com:443/en-us/company/who-we-are/,20180701,found,,200
+AXP,American Express,Financials,2019,https://www.americanexpress.com/en-us/company/who-we-are/,,,20190701,missing,No closest snapshot found from Wayback Availability API,
+AXP,American Express,Financials,2020,https://www.americanexpress.com/en-us/company/who-we-are/,,,20200701,missing,No closest snapshot found from Wayback Availability API,
+AXP,American Express,Financials,2021,https://www.americanexpress.com/en-us/company/who-we-are/,,,20210701,missing,No closest snapshot found from Wayback Availability API,
+AXP,American Express,Financials,2022,https://www.americanexpress.com/en-us/company/who-we-are/,20230605140408,http://web.archive.org/web/20230605140408/https://www.americanexpress.com:443/en-us/company/who-we-are/,20220701,found,,200
+AXP,American Express,Financials,2023,https://www.americanexpress.com/en-us/company/who-we-are/,20230609192334,http://web.archive.org/web/20230609192334/https://www.americanexpress.com/en-us/company/who-we-are/,20230701,found,,200
+AXP,American Express,Financials,2024,https://www.americanexpress.com/en-us/company/who-we-are/,,,20240701,missing,No closest snapshot found from Wayback Availability API,
+C,Citigroup,Financials,2016,https://www.citigroup.com/global/about-us,20230131160339,http://web.archive.org/web/20230131160339/https://www.citigroup.com/global/about-us,20160701,found,,200
+C,Citigroup,Financials,2017,https://www.citigroup.com/global/about-us,,,20170701,missing,No closest snapshot found from Wayback Availability API,
+C,Citigroup,Financials,2018,https://www.citigroup.com/global/about-us,,,20180701,missing,No closest snapshot found from Wayback Availability API,
+C,Citigroup,Financials,2019,https://www.citigroup.com/global/about-us,,,20190701,missing,No closest snapshot found from Wayback Availability API,
+C,Citigroup,Financials,2020,https://www.citigroup.com/global/about-us,,,20200701,missing,No closest snapshot found from Wayback Availability API,
+C,Citigroup,Financials,2021,https://www.citigroup.com/global/about-us,,,20210701,missing,No closest snapshot found from Wayback Availability API,
+C,Citigroup,Financials,2022,https://www.citigroup.com/global/about-us,20230131160339,http://web.archive.org/web/20230131160339/https://www.citigroup.com/global/about-us,20220701,found,,200
+C,Citigroup,Financials,2023,https://www.citigroup.com/global/about-us,20230722101707,http://web.archive.org/web/20230722101707/https://www.citigroup.com/global/about-us,20230701,found,,200
+C,Citigroup,Financials,2024,https://www.citigroup.com/global/about-us,,,20240701,missing,No closest snapshot found from Wayback Availability API,
+LLY,Eli Lilly,Healthcare,2016,https://www.lilly.com/about,,,20160701,missing,No closest snapshot found from Wayback Availability API,
+LLY,Eli Lilly,Healthcare,2017,https://www.lilly.com/about,20220612095748,http://web.archive.org/web/20220612095748/https://www.lilly.com/About/,20170701,found,,200
+LLY,Eli Lilly,Healthcare,2018,https://www.lilly.com/about,,,20180701,missing,No closest snapshot found from Wayback Availability API,
+LLY,Eli Lilly,Healthcare,2019,https://www.lilly.com/about,20220612095748,http://web.archive.org/web/20220612095748/https://www.lilly.com/About/,20190701,found,,200
+LLY,Eli Lilly,Healthcare,2020,https://www.lilly.com/about,20220612095748,http://web.archive.org/web/20220612095748/https://www.lilly.com/About/,20200701,found,,200
+LLY,Eli Lilly,Healthcare,2021,https://www.lilly.com/about,20220612095748,http://web.archive.org/web/20220612095748/https://www.lilly.com/About/,20210701,found,,200
+LLY,Eli Lilly,Healthcare,2022,https://www.lilly.com/about,20220709134909,http://web.archive.org/web/20220709134909/https://www.lilly.com/about,20220701,found,,200
+LLY,Eli Lilly,Healthcare,2023,https://www.lilly.com/about,,,20230701,missing,No closest snapshot found from Wayback Availability API,
+LLY,Eli Lilly,Healthcare,2024,https://www.lilly.com/about,20250814200319,http://web.archive.org/web/20250814200319/https://www.lilly.com/about,20240701,found,,200
+UNH,UnitedHealth Group,Healthcare,2016,https://www.unitedhealthgroup.com/uhg/mission-values.html,20240823210743,http://web.archive.org/web/20240823210743/https://www.unitedhealthgroup.com/uhg/mission-values.html,20160701,found,,200
+UNH,UnitedHealth Group,Healthcare,2017,https://www.unitedhealthgroup.com/uhg/mission-values.html,20240823210743,http://web.archive.org/web/20240823210743/https://www.unitedhealthgroup.com/uhg/mission-values.html,20170701,found,,200
+UNH,UnitedHealth Group,Healthcare,2018,https://www.unitedhealthgroup.com/uhg/mission-values.html,20240823210743,http://web.archive.org/web/20240823210743/https://www.unitedhealthgroup.com/uhg/mission-values.html,20180701,found,,200
+UNH,UnitedHealth Group,Healthcare,2019,https://www.unitedhealthgroup.com/uhg/mission-values.html,20240823210743,http://web.archive.org/web/20240823210743/https://www.unitedhealthgroup.com/uhg/mission-values.html,20190701,found,,200
+UNH,UnitedHealth Group,Healthcare,2020,https://www.unitedhealthgroup.com/uhg/mission-values.html,20240823210743,http://web.archive.org/web/20240823210743/https://www.unitedhealthgroup.com/uhg/mission-values.html,20200701,found,,200
+UNH,UnitedHealth Group,Healthcare,2021,https://www.unitedhealthgroup.com/uhg/mission-values.html,20240823210743,http://web.archive.org/web/20240823210743/https://www.unitedhealthgroup.com/uhg/mission-values.html,20210701,found,,200
+UNH,UnitedHealth Group,Healthcare,2022,https://www.unitedhealthgroup.com/uhg/mission-values.html,20240823210743,http://web.archive.org/web/20240823210743/https://www.unitedhealthgroup.com/uhg/mission-values.html,20220701,found,,200
+UNH,UnitedHealth Group,Healthcare,2023,https://www.unitedhealthgroup.com/uhg/mission-values.html,20240823210743,http://web.archive.org/web/20240823210743/https://www.unitedhealthgroup.com/uhg/mission-values.html,20230701,found,,200
+UNH,UnitedHealth Group,Healthcare,2024,https://www.unitedhealthgroup.com/uhg/mission-values.html,20240823210743,http://web.archive.org/web/20240823210743/https://www.unitedhealthgroup.com/uhg/mission-values.html,20240701,found,,200
+JNJ,Johnson & Johnson,Healthcare,2016,https://www.jnj.com/credo-purpose,20250619235213,http://web.archive.org/web/20250619235213/https://www.jnj.com/credo-purpose,20160701,found,,200
+JNJ,Johnson & Johnson,Healthcare,2017,https://www.jnj.com/credo-purpose,20250619235213,http://web.archive.org/web/20250619235213/https://www.jnj.com/credo-purpose,20170701,found,,200
+JNJ,Johnson & Johnson,Healthcare,2018,https://www.jnj.com/credo-purpose,20250619235213,http://web.archive.org/web/20250619235213/https://www.jnj.com/credo-purpose,20180701,found,,200
+JNJ,Johnson & Johnson,Healthcare,2019,https://www.jnj.com/credo-purpose,20250619235213,http://web.archive.org/web/20250619235213/https://www.jnj.com/credo-purpose,20190701,found,,200
+JNJ,Johnson & Johnson,Healthcare,2020,https://www.jnj.com/credo-purpose,20250619235213,http://web.archive.org/web/20250619235213/https://www.jnj.com/credo-purpose,20200701,found,,200
+JNJ,Johnson & Johnson,Healthcare,2021,https://www.jnj.com/credo-purpose,20250619235213,http://web.archive.org/web/20250619235213/https://www.jnj.com/credo-purpose,20210701,found,,200
+JNJ,Johnson & Johnson,Healthcare,2022,https://www.jnj.com/credo-purpose,20250619235213,http://web.archive.org/web/20250619235213/https://www.jnj.com/credo-purpose,20220701,found,,200
+JNJ,Johnson & Johnson,Healthcare,2023,https://www.jnj.com/credo-purpose,20250619235213,http://web.archive.org/web/20250619235213/https://www.jnj.com/credo-purpose,20230701,found,,200
+JNJ,Johnson & Johnson,Healthcare,2024,https://www.jnj.com/credo-purpose,,,20240701,missing,No closest snapshot found from Wayback Availability API,
+ABBV,AbbVie,Healthcare,2016,https://www.abbvie.com/who-we-are.html,20230216175901,http://web.archive.org/web/20230216175901/https://www.abbvie.com/who-we-are.html,20160701,found,,200
+ABBV,AbbVie,Healthcare,2017,https://www.abbvie.com/who-we-are.html,,,20170701,missing,No closest snapshot found from Wayback Availability API,
+ABBV,AbbVie,Healthcare,2018,https://www.abbvie.com/who-we-are.html,20230216175901,http://web.archive.org/web/20230216175901/https://www.abbvie.com/who-we-are.html,20180701,found,,200
+ABBV,AbbVie,Healthcare,2019,https://www.abbvie.com/who-we-are.html,,,20190701,missing,No closest snapshot found from Wayback Availability API,
+ABBV,AbbVie,Healthcare,2020,https://www.abbvie.com/who-we-are.html,20230216175901,http://web.archive.org/web/20230216175901/https://www.abbvie.com/who-we-are.html,20200701,found,,200
+ABBV,AbbVie,Healthcare,2021,https://www.abbvie.com/who-we-are.html,,,20210701,missing,No closest snapshot found from Wayback Availability API,
+ABBV,AbbVie,Healthcare,2022,https://www.abbvie.com/who-we-are.html,20230216175901,http://web.archive.org/web/20230216175901/https://www.abbvie.com/who-we-are.html,20220701,found,,200
+ABBV,AbbVie,Healthcare,2023,https://www.abbvie.com/who-we-are.html,20230718193918,http://web.archive.org/web/20230718193918/https://www.abbvie.com/who-we-are.html,20230701,found,,200
+ABBV,AbbVie,Healthcare,2024,https://www.abbvie.com/who-we-are.html,20240620175013,http://web.archive.org/web/20240620175013/https://www.abbvie.com/who-we-are.html,20240701,found,,200
+MRK,Merck,Healthcare,2016,https://www.merck.com/company-overview/culture-and-values/,20200813041738,http://web.archive.org/web/20200813041738/https://www.merck.com/company-overview/culture-and-values/,20160701,found,,200
+MRK,Merck,Healthcare,2017,https://www.merck.com/company-overview/culture-and-values/,20200813041738,http://web.archive.org/web/20200813041738/https://www.merck.com/company-overview/culture-and-values/,20170701,found,,200
+MRK,Merck,Healthcare,2018,https://www.merck.com/company-overview/culture-and-values/,20200813041738,http://web.archive.org/web/20200813041738/https://www.merck.com/company-overview/culture-and-values/,20180701,found,,200
+MRK,Merck,Healthcare,2019,https://www.merck.com/company-overview/culture-and-values/,20200813041738,http://web.archive.org/web/20200813041738/https://www.merck.com/company-overview/culture-and-values/,20190701,found,,200
+MRK,Merck,Healthcare,2020,https://www.merck.com/company-overview/culture-and-values/,,,20200701,missing,No closest snapshot found from Wayback Availability API,
+MRK,Merck,Healthcare,2021,https://www.merck.com/company-overview/culture-and-values/,20210630082024,http://web.archive.org/web/20210630082024/https://www.merck.com/company-overview/culture-and-values/,20210701,found,,200
+MRK,Merck,Healthcare,2022,https://www.merck.com/company-overview/culture-and-values/,20220706214613,http://web.archive.org/web/20220706214613/https://www.merck.com/company-overview/culture-and-values/,20220701,found,,200
+MRK,Merck,Healthcare,2023,https://www.merck.com/company-overview/culture-and-values/,20230607200338,http://web.archive.org/web/20230607200338/https://www.merck.com/company-overview/culture-and-values/,20230701,found,,200
+MRK,Merck,Healthcare,2024,https://www.merck.com/company-overview/culture-and-values/,,,20240701,missing,No closest snapshot found from Wayback Availability API,
+TMO,Thermo Fisher Scientific,Healthcare,2016,https://corporate.thermofisher.com/us/en/index/about.html,,,20160701,missing,No closest snapshot found from Wayback Availability API,
+TMO,Thermo Fisher Scientific,Healthcare,2017,https://corporate.thermofisher.com/us/en/index/about.html,20210410192921,http://web.archive.org/web/20210410192921/https://corporate.thermofisher.com/us/en/index/about.html,20170701,found,,200
+TMO,Thermo Fisher Scientific,Healthcare,2018,https://corporate.thermofisher.com/us/en/index/about.html,20210410192921,http://web.archive.org/web/20210410192921/https://corporate.thermofisher.com/us/en/index/about.html,20180701,found,,200
+TMO,Thermo Fisher Scientific,Healthcare,2019,https://corporate.thermofisher.com/us/en/index/about.html,20210410192921,http://web.archive.org/web/20210410192921/https://corporate.thermofisher.com/us/en/index/about.html,20190701,found,,200
+TMO,Thermo Fisher Scientific,Healthcare,2020,https://corporate.thermofisher.com/us/en/index/about.html,20210410192921,http://web.archive.org/web/20210410192921/https://corporate.thermofisher.com/us/en/index/about.html,20200701,found,,200
+TMO,Thermo Fisher Scientific,Healthcare,2021,https://corporate.thermofisher.com/us/en/index/about.html,20210623160627,http://web.archive.org/web/20210623160627/https://corporate.thermofisher.com/us/en/index/about.html,20210701,found,,200
+TMO,Thermo Fisher Scientific,Healthcare,2022,https://corporate.thermofisher.com/us/en/index/about.html,20220701173717,http://web.archive.org/web/20220701173717/https://corporate.thermofisher.com/us/en/index/about.html,20220701,found,,200
+TMO,Thermo Fisher Scientific,Healthcare,2023,https://corporate.thermofisher.com/us/en/index/about.html,,,20230701,missing,No closest snapshot found from Wayback Availability API,
+TMO,Thermo Fisher Scientific,Healthcare,2024,https://corporate.thermofisher.com/us/en/index/about.html,20240714235931,http://web.archive.org/web/20240714235931/https://corporate.thermofisher.com/us/en/index/about.html,20240701,found,,200
+ABT,Abbott Laboratories,Healthcare,2016,https://www.abbott.com/en-us/about-abbott,,,20160701,missing,No closest snapshot found from Wayback Availability API,
+ABT,Abbott Laboratories,Healthcare,2017,https://www.abbott.com/en-us/about-abbott,20251215154615,http://web.archive.org/web/20251215154615/https://www.abbott.com/en-us/about-abbott,20170701,found,,200
+ABT,Abbott Laboratories,Healthcare,2018,https://www.abbott.com/en-us/about-abbott,20251215154615,http://web.archive.org/web/20251215154615/https://www.abbott.com/en-us/about-abbott,20180701,found,,200
+ABT,Abbott Laboratories,Healthcare,2019,https://www.abbott.com/en-us/about-abbott,20251215154615,http://web.archive.org/web/20251215154615/https://www.abbott.com/en-us/about-abbott,20190701,found,,200
+ABT,Abbott Laboratories,Healthcare,2020,https://www.abbott.com/en-us/about-abbott,20251215154615,http://web.archive.org/web/20251215154615/https://www.abbott.com/en-us/about-abbott,20200701,found,,200
+ABT,Abbott Laboratories,Healthcare,2021,https://www.abbott.com/en-us/about-abbott,20251215154615,http://web.archive.org/web/20251215154615/https://www.abbott.com/en-us/about-abbott,20210701,found,,200
+ABT,Abbott Laboratories,Healthcare,2022,https://www.abbott.com/en-us/about-abbott,20251215154615,http://web.archive.org/web/20251215154615/https://www.abbott.com/en-us/about-abbott,20220701,found,,200
+ABT,Abbott Laboratories,Healthcare,2023,https://www.abbott.com/en-us/about-abbott,20251215154615,http://web.archive.org/web/20251215154615/https://www.abbott.com/en-us/about-abbott,20230701,found,,200
+ABT,Abbott Laboratories,Healthcare,2024,https://www.abbott.com/en-us/about-abbott,20251215154615,http://web.archive.org/web/20251215154615/https://www.abbott.com/en-us/about-abbott,20240701,found,,200
+PFE,Pfizer,Healthcare,2016,https://www.pfizer.com/about/careers/en-ir/about-pfizer,,,20160701,missing,No closest snapshot found from Wayback Availability API,
+PFE,Pfizer,Healthcare,2017,https://www.pfizer.com/about/careers/en-ir/about-pfizer,20220809015554,http://web.archive.org/web/20220809015554/https://www.pfizer.com/about/careers/en-ir/about-pfizer,20170701,found,,200
+PFE,Pfizer,Healthcare,2018,https://www.pfizer.com/about/careers/en-ir/about-pfizer,20220809015554,http://web.archive.org/web/20220809015554/https://www.pfizer.com/about/careers/en-ir/about-pfizer,20180701,found,,200
+PFE,Pfizer,Healthcare,2019,https://www.pfizer.com/about/careers/en-ir/about-pfizer,,,20190701,missing,No closest snapshot found from Wayback Availability API,
+PFE,Pfizer,Healthcare,2020,https://www.pfizer.com/about/careers/en-ir/about-pfizer,,,20200701,missing,No closest snapshot found from Wayback Availability API,
+PFE,Pfizer,Healthcare,2021,https://www.pfizer.com/about/careers/en-ir/about-pfizer,20220809015554,http://web.archive.org/web/20220809015554/https://www.pfizer.com/about/careers/en-ir/about-pfizer,20210701,found,,200
+PFE,Pfizer,Healthcare,2022,https://www.pfizer.com/about/careers/en-ir/about-pfizer,20220809015554,http://web.archive.org/web/20220809015554/https://www.pfizer.com/about/careers/en-ir/about-pfizer,20220701,found,,200
+PFE,Pfizer,Healthcare,2023,https://www.pfizer.com/about/careers/en-ir/about-pfizer,20230330021310,http://web.archive.org/web/20230330021310/https://www.pfizer.com/about/careers/en-ir/about-pfizer,20230701,found,,200
+PFE,Pfizer,Healthcare,2024,https://www.pfizer.com/about/careers/en-ir/about-pfizer,,,20240701,missing,No closest snapshot found from Wayback Availability API,
+MDT,Medtronic,Healthcare,2016,https://www.medtronic.com/en-us/our-company/mission.html,20241009040333,http://web.archive.org/web/20241009040333/https://www.medtronic.com/en-us/our-company/mission.html,20160701,found,,200
+MDT,Medtronic,Healthcare,2017,https://www.medtronic.com/en-us/our-company/mission.html,,,20170701,missing,No closest snapshot found from Wayback Availability API,
+MDT,Medtronic,Healthcare,2018,https://www.medtronic.com/en-us/our-company/mission.html,,,20180701,missing,No closest snapshot found from Wayback Availability API,
+MDT,Medtronic,Healthcare,2019,https://www.medtronic.com/en-us/our-company/mission.html,20241009040333,http://web.archive.org/web/20241009040333/https://www.medtronic.com/en-us/our-company/mission.html,20190701,found,,200
+MDT,Medtronic,Healthcare,2020,https://www.medtronic.com/en-us/our-company/mission.html,20241009040333,http://web.archive.org/web/20241009040333/https://www.medtronic.com/en-us/our-company/mission.html,20200701,found,,200
+MDT,Medtronic,Healthcare,2021,https://www.medtronic.com/en-us/our-company/mission.html,,,20210701,missing,No closest snapshot found from Wayback Availability API,
+MDT,Medtronic,Healthcare,2022,https://www.medtronic.com/en-us/our-company/mission.html,,,20220701,missing,No closest snapshot found from Wayback Availability API,
+MDT,Medtronic,Healthcare,2023,https://www.medtronic.com/en-us/our-company/mission.html,20241009040333,http://web.archive.org/web/20241009040333/https://www.medtronic.com/en-us/our-company/mission.html,20230701,found,,200
+MDT,Medtronic,Healthcare,2024,https://www.medtronic.com/en-us/our-company/mission.html,20241009040333,http://web.archive.org/web/20241009040333/https://www.medtronic.com/en-us/our-company/mission.html,20240701,found,,200
+BMY,Bristol-Myers Squibb,Healthcare,2016,https://www.bms.com/about-us/our-impact.html,20240916160948,http://web.archive.org/web/20240916160948/https://www.bms.com/about-us/our-impact.html,20160701,found,,200
+BMY,Bristol-Myers Squibb,Healthcare,2017,https://www.bms.com/about-us/our-impact.html,20240916160948,http://web.archive.org/web/20240916160948/https://www.bms.com/about-us/our-impact.html,20170701,found,,200
+BMY,Bristol-Myers Squibb,Healthcare,2018,https://www.bms.com/about-us/our-impact.html,20240916160948,http://web.archive.org/web/20240916160948/https://www.bms.com/about-us/our-impact.html,20180701,found,,200
+BMY,Bristol-Myers Squibb,Healthcare,2019,https://www.bms.com/about-us/our-impact.html,20240916160948,http://web.archive.org/web/20240916160948/https://www.bms.com/about-us/our-impact.html,20190701,found,,200
+BMY,Bristol-Myers Squibb,Healthcare,2020,https://www.bms.com/about-us/our-impact.html,,,20200701,missing,No closest snapshot found from Wayback Availability API,
+BMY,Bristol-Myers Squibb,Healthcare,2021,https://www.bms.com/about-us/our-impact.html,20240916160948,http://web.archive.org/web/20240916160948/https://www.bms.com/about-us/our-impact.html,20210701,found,,200
+BMY,Bristol-Myers Squibb,Healthcare,2022,https://www.bms.com/about-us/our-impact.html,,,20220701,missing,No closest snapshot found from Wayback Availability API,
+BMY,Bristol-Myers Squibb,Healthcare,2023,https://www.bms.com/about-us/our-impact.html,20240916160948,http://web.archive.org/web/20240916160948/https://www.bms.com/about-us/our-impact.html,20230701,found,,200
+BMY,Bristol-Myers Squibb,Healthcare,2024,https://www.bms.com/about-us/our-impact.html,,,20240701,missing,No closest snapshot found from Wayback Availability API,
+AMZN,Amazon,Consumer Discretionary,2016,https://www.aboutamazon.com/about-us,,,20160701,missing,No closest snapshot found from Wayback Availability API,
+AMZN,Amazon,Consumer Discretionary,2017,https://www.aboutamazon.com/about-us,20201124040148,http://web.archive.org/web/20201124040148/https://www.aboutamazon.com/about-us,20170701,found,,200
+AMZN,Amazon,Consumer Discretionary,2018,https://www.aboutamazon.com/about-us,20201124040148,http://web.archive.org/web/20201124040148/https://www.aboutamazon.com/about-us,20180701,found,,200
+AMZN,Amazon,Consumer Discretionary,2019,https://www.aboutamazon.com/about-us,20201124040148,http://web.archive.org/web/20201124040148/https://www.aboutamazon.com/about-us,20190701,found,,200
+AMZN,Amazon,Consumer Discretionary,2020,https://www.aboutamazon.com/about-us,,,20200701,missing,No closest snapshot found from Wayback Availability API,
+AMZN,Amazon,Consumer Discretionary,2021,https://www.aboutamazon.com/about-us,,,20210701,missing,No closest snapshot found from Wayback Availability API,
+AMZN,Amazon,Consumer Discretionary,2022,https://www.aboutamazon.com/about-us,20220701195656,http://web.archive.org/web/20220701195656/https://www.aboutamazon.com/about-us,20220701,found,,200
+AMZN,Amazon,Consumer Discretionary,2023,https://www.aboutamazon.com/about-us,20230701061232,http://web.archive.org/web/20230701061232/https://www.aboutamazon.com/about-us,20230701,found,,200
+AMZN,Amazon,Consumer Discretionary,2024,https://www.aboutamazon.com/about-us,20240703063930,http://web.archive.org/web/20240703063930/https://www.aboutamazon.com/about-us,20240701,found,,200
+TSLA,Tesla,Consumer Discretionary,2016,https://www.tesla.com/about,,,20160701,missing,No closest snapshot found from Wayback Availability API,
+TSLA,Tesla,Consumer Discretionary,2017,https://www.tesla.com/about,20170709165442,http://web.archive.org/web/20170709165442/https://www.tesla.com/about/,20170701,found,,200
+TSLA,Tesla,Consumer Discretionary,2018,https://www.tesla.com/about,,,20180701,missing,No closest snapshot found from Wayback Availability API,
+TSLA,Tesla,Consumer Discretionary,2019,https://www.tesla.com/about,20190702011047,http://web.archive.org/web/20190702011047/https://www.tesla.com/about,20190701,found,,200
+TSLA,Tesla,Consumer Discretionary,2020,https://www.tesla.com/about,20200629052217,http://web.archive.org/web/20200629052217/https://www.tesla.com/about,20200701,found,,200
+TSLA,Tesla,Consumer Discretionary,2021,https://www.tesla.com/about,20210705040413,http://web.archive.org/web/20210705040413/https://www.tesla.com/about,20210701,found,,200
+TSLA,Tesla,Consumer Discretionary,2022,https://www.tesla.com/about,,,20220701,missing,No closest snapshot found from Wayback Availability API,
+TSLA,Tesla,Consumer Discretionary,2023,https://www.tesla.com/about,20230706192013,http://web.archive.org/web/20230706192013/https://www.tesla.com/about,20230701,found,,200
+TSLA,Tesla,Consumer Discretionary,2024,https://www.tesla.com/about,20240702053739,http://web.archive.org/web/20240702053739/https://www.tesla.com/about,20240701,found,,200
+HD,Home Depot,Consumer Discretionary,2016,https://corporate.homedepot.com/page/our-values,20220722135729,http://web.archive.org/web/20220722135729/https://corporate.homedepot.com/page/our-values,20160701,found,,200
+HD,Home Depot,Consumer Discretionary,2017,https://corporate.homedepot.com/page/our-values,20220722135729,http://web.archive.org/web/20220722135729/https://corporate.homedepot.com/page/our-values,20170701,found,,200
+HD,Home Depot,Consumer Discretionary,2018,https://corporate.homedepot.com/page/our-values,,,20180701,missing,No closest snapshot found from Wayback Availability API,
+HD,Home Depot,Consumer Discretionary,2019,https://corporate.homedepot.com/page/our-values,20220722135729,http://web.archive.org/web/20220722135729/https://corporate.homedepot.com/page/our-values,20190701,found,,200
+HD,Home Depot,Consumer Discretionary,2020,https://corporate.homedepot.com/page/our-values,20220722135729,http://web.archive.org/web/20220722135729/https://corporate.homedepot.com/page/our-values,20200701,found,,200
+HD,Home Depot,Consumer Discretionary,2021,https://corporate.homedepot.com/page/our-values,,,20210701,missing,No closest snapshot found from Wayback Availability API,
+HD,Home Depot,Consumer Discretionary,2022,https://corporate.homedepot.com/page/our-values,20220722135729,http://web.archive.org/web/20220722135729/https://corporate.homedepot.com/page/our-values,20220701,found,,200
+HD,Home Depot,Consumer Discretionary,2023,https://corporate.homedepot.com/page/our-values,20230720032404,http://web.archive.org/web/20230720032404/https://corporate.homedepot.com/page/our-values,20230701,found,,200
+HD,Home Depot,Consumer Discretionary,2024,https://corporate.homedepot.com/page/our-values,20240624110229,http://web.archive.org/web/20240624110229/https://corporate.homedepot.com/page/our-values,20240701,found,,200
+MCD,McDonald's,Consumer Discretionary,2016,https://corporate.mcdonalds.com/corpmcd/our-company/who-we-are/our-values.html,,,20160701,missing,No closest snapshot found from Wayback Availability API,
+MCD,McDonald's,Consumer Discretionary,2017,https://corporate.mcdonalds.com/corpmcd/our-company/who-we-are/our-values.html,20201114001121,http://web.archive.org/web/20201114001121/https://corporate.mcdonalds.com/corpmcd/our-company/who-we-are/our-values.html,20170701,found,,200
+MCD,McDonald's,Consumer Discretionary,2018,https://corporate.mcdonalds.com/corpmcd/our-company/who-we-are/our-values.html,,,20180701,missing,No closest snapshot found from Wayback Availability API,
+MCD,McDonald's,Consumer Discretionary,2019,https://corporate.mcdonalds.com/corpmcd/our-company/who-we-are/our-values.html,,,20190701,missing,No closest snapshot found from Wayback Availability API,
+MCD,McDonald's,Consumer Discretionary,2020,https://corporate.mcdonalds.com/corpmcd/our-company/who-we-are/our-values.html,,,20200701,missing,No closest snapshot found from Wayback Availability API,
+MCD,McDonald's,Consumer Discretionary,2021,https://corporate.mcdonalds.com/corpmcd/our-company/who-we-are/our-values.html,,,20210701,missing,No closest snapshot found from Wayback Availability API,
+MCD,McDonald's,Consumer Discretionary,2022,https://corporate.mcdonalds.com/corpmcd/our-company/who-we-are/our-values.html,20220813040207,http://web.archive.org/web/20220813040207/https://corporate.mcdonalds.com/corpmcd/our-company/who-we-are/our-values.html,20220701,found,,200
+MCD,McDonald's,Consumer Discretionary,2023,https://corporate.mcdonalds.com/corpmcd/our-company/who-we-are/our-values.html,,,20230701,missing,No closest snapshot found from Wayback Availability API,
+MCD,McDonald's,Consumer Discretionary,2024,https://corporate.mcdonalds.com/corpmcd/our-company/who-we-are/our-values.html,20240707204123,http://web.archive.org/web/20240707204123/https://corporate.mcdonalds.com/corpmcd/our-company/who-we-are/our-values.html,20240701,found,,200
+NKE,Nike,Consumer Discretionary,2016,https://about.nike.com/en/mission,20250715203459,http://web.archive.org/web/20250715203459/https://about.nike.com/en/mission,20160701,found,,200
+NKE,Nike,Consumer Discretionary,2017,https://about.nike.com/en/mission,,,20170701,missing,No closest snapshot found from Wayback Availability API,
+NKE,Nike,Consumer Discretionary,2018,https://about.nike.com/en/mission,20250715203459,http://web.archive.org/web/20250715203459/https://about.nike.com/en/mission,20180701,found,,200
+NKE,Nike,Consumer Discretionary,2019,https://about.nike.com/en/mission,20250715203459,http://web.archive.org/web/20250715203459/https://about.nike.com/en/mission,20190701,found,,200
+NKE,Nike,Consumer Discretionary,2020,https://about.nike.com/en/mission,,,20200701,missing,No closest snapshot found from Wayback Availability API,
+NKE,Nike,Consumer Discretionary,2021,https://about.nike.com/en/mission,20250715203459,http://web.archive.org/web/20250715203459/https://about.nike.com/en/mission,20210701,found,,200
+NKE,Nike,Consumer Discretionary,2022,https://about.nike.com/en/mission,,,20220701,missing,No closest snapshot found from Wayback Availability API,
+NKE,Nike,Consumer Discretionary,2023,https://about.nike.com/en/mission,,,20230701,missing,No closest snapshot found from Wayback Availability API,
+NKE,Nike,Consumer Discretionary,2024,https://about.nike.com/en/mission,,,20240701,missing,No closest snapshot found from Wayback Availability API,
+SBUX,Starbucks,Consumer Discretionary,2016,https://about.starbucks.com/mission/,20241203152220,http://web.archive.org/web/20241203152220/https://about.starbucks.com/mission/,20160701,found,,200
+SBUX,Starbucks,Consumer Discretionary,2017,https://about.starbucks.com/mission/,20241203152220,http://web.archive.org/web/20241203152220/https://about.starbucks.com/mission/,20170701,found,,200
+SBUX,Starbucks,Consumer Discretionary,2018,https://about.starbucks.com/mission/,20241203152220,http://web.archive.org/web/20241203152220/https://about.starbucks.com/mission/,20180701,found,,200
+SBUX,Starbucks,Consumer Discretionary,2019,https://about.starbucks.com/mission/,,,20190701,missing,No closest snapshot found from Wayback Availability API,
+SBUX,Starbucks,Consumer Discretionary,2020,https://about.starbucks.com/mission/,,,20200701,missing,No closest snapshot found from Wayback Availability API,
+SBUX,Starbucks,Consumer Discretionary,2021,https://about.starbucks.com/mission/,20241203152220,http://web.archive.org/web/20241203152220/https://about.starbucks.com/mission/,20210701,found,,200
+SBUX,Starbucks,Consumer Discretionary,2022,https://about.starbucks.com/mission/,20241203152220,http://web.archive.org/web/20241203152220/https://about.starbucks.com/mission/,20220701,found,,200
+SBUX,Starbucks,Consumer Discretionary,2023,https://about.starbucks.com/mission/,20241203152220,http://web.archive.org/web/20241203152220/https://about.starbucks.com/mission/,20230701,found,,200
+SBUX,Starbucks,Consumer Discretionary,2024,https://about.starbucks.com/mission/,,,20240701,missing,No closest snapshot found from Wayback Availability API,
+TGT,Target,Consumer Discretionary,2016,https://corporate.target.com/about/purpose-history,,,20160701,missing,No closest snapshot found from Wayback Availability API,
+TGT,Target,Consumer Discretionary,2017,https://corporate.target.com/about/purpose-history,20190930161221,http://web.archive.org/web/20190930161221/https://corporate.target.com/about/purpose-history,20170701,found,,200
+TGT,Target,Consumer Discretionary,2018,https://corporate.target.com/about/purpose-history,,,20180701,missing,No closest snapshot found from Wayback Availability API,
+TGT,Target,Consumer Discretionary,2019,https://corporate.target.com/about/purpose-history,,,20190701,missing,No closest snapshot found from Wayback Availability API,
+TGT,Target,Consumer Discretionary,2020,https://corporate.target.com/about/purpose-history,,,20200701,missing,No closest snapshot found from Wayback Availability API,
+TGT,Target,Consumer Discretionary,2021,https://corporate.target.com/about/purpose-history,,,20210701,missing,No closest snapshot found from Wayback Availability API,
+TGT,Target,Consumer Discretionary,2022,https://corporate.target.com/about/purpose-history,20220607163643,http://web.archive.org/web/20220607163643/https://corporate.target.com/about/purpose-history,20220701,found,,200
+TGT,Target,Consumer Discretionary,2023,https://corporate.target.com/about/purpose-history,20230701171802,http://web.archive.org/web/20230701171802/https://corporate.target.com/about/purpose-history,20230701,found,,200
+TGT,Target,Consumer Discretionary,2024,https://corporate.target.com/about/purpose-history,20240703023701,http://web.archive.org/web/20240703023701/https://corporate.target.com/about/purpose-history,20240701,found,,200
+LOW,Lowe's,Consumer Discretionary,2016,https://corporate.lowes.com/who-we-are,,,20160701,missing,No closest snapshot found from Wayback Availability API,
+LOW,Lowe's,Consumer Discretionary,2017,https://corporate.lowes.com/who-we-are,,,20170701,missing,No closest snapshot found from Wayback Availability API,
+LOW,Lowe's,Consumer Discretionary,2018,https://corporate.lowes.com/who-we-are,20201001030214,http://web.archive.org/web/20201001030214/https://corporate.lowes.com/who-we-are,20180701,found,,200
+LOW,Lowe's,Consumer Discretionary,2019,https://corporate.lowes.com/who-we-are,20201001030214,http://web.archive.org/web/20201001030214/https://corporate.lowes.com/who-we-are,20190701,found,,200
+LOW,Lowe's,Consumer Discretionary,2020,https://corporate.lowes.com/who-we-are,,,20200701,missing,No closest snapshot found from Wayback Availability API,
+LOW,Lowe's,Consumer Discretionary,2021,https://corporate.lowes.com/who-we-are,20210606040732,http://web.archive.org/web/20210606040732/https://corporate.lowes.com/who-we-are,20210701,found,,200
+LOW,Lowe's,Consumer Discretionary,2022,https://corporate.lowes.com/who-we-are,20220703061011,http://web.archive.org/web/20220703061011/https://corporate.lowes.com/who-we-are,20220701,found,,200
+LOW,Lowe's,Consumer Discretionary,2023,https://corporate.lowes.com/who-we-are,20230606045138,http://web.archive.org/web/20230606045138/https://corporate.lowes.com/who-we-are,20230701,found,,200
+LOW,Lowe's,Consumer Discretionary,2024,https://corporate.lowes.com/who-we-are,20240529095241,http://web.archive.org/web/20240529095241/https://corporate.lowes.com/who-we-are,20240701,found,,200
+TJX,TJX Companies,Consumer Discretionary,2016,https://www.tjx.com/company/about-tjx,,,20160701,missing,No closest snapshot found from Wayback Availability API,
+TJX,TJX Companies,Consumer Discretionary,2017,https://www.tjx.com/company/about-tjx,20230920175005,http://web.archive.org/web/20230920175005/https://www.tjx.com/company/about-tjx,20170701,found,,200
+TJX,TJX Companies,Consumer Discretionary,2018,https://www.tjx.com/company/about-tjx,,,20180701,missing,No closest snapshot found from Wayback Availability API,
+TJX,TJX Companies,Consumer Discretionary,2019,https://www.tjx.com/company/about-tjx,20230920175005,http://web.archive.org/web/20230920175005/https://www.tjx.com/company/about-tjx,20190701,found,,200
+TJX,TJX Companies,Consumer Discretionary,2020,https://www.tjx.com/company/about-tjx,20230920175005,http://web.archive.org/web/20230920175005/https://www.tjx.com/company/about-tjx,20200701,found,,200
+TJX,TJX Companies,Consumer Discretionary,2021,https://www.tjx.com/company/about-tjx,20230920175005,http://web.archive.org/web/20230920175005/https://www.tjx.com/company/about-tjx,20210701,found,,200
+TJX,TJX Companies,Consumer Discretionary,2022,https://www.tjx.com/company/about-tjx,20230920175005,http://web.archive.org/web/20230920175005/https://www.tjx.com/company/about-tjx,20220701,found,,200
+TJX,TJX Companies,Consumer Discretionary,2023,https://www.tjx.com/company/about-tjx,,,20230701,missing,No closest snapshot found from Wayback Availability API,
+TJX,TJX Companies,Consumer Discretionary,2024,https://www.tjx.com/company/about-tjx,20240705072236,http://web.archive.org/web/20240705072236/https://www.tjx.com/company/about-tjx,20240701,found,,200
+F,Ford Motor,Consumer Discretionary,2016,https://corporate.ford.com/about/purpose/www/,,,20160701,missing,No closest snapshot found from Wayback Availability API,
+F,Ford Motor,Consumer Discretionary,2017,https://corporate.ford.com/about/purpose/www/,,,20170701,missing,No closest snapshot found from Wayback Availability API,
+F,Ford Motor,Consumer Discretionary,2018,https://corporate.ford.com/about/purpose/www/,,,20180701,missing,No closest snapshot found from Wayback Availability API,
+F,Ford Motor,Consumer Discretionary,2019,https://corporate.ford.com/about/purpose/www/,,,20190701,missing,No closest snapshot found from Wayback Availability API,
+F,Ford Motor,Consumer Discretionary,2020,https://corporate.ford.com/about/purpose/www/,,,20200701,missing,No closest snapshot found from Wayback Availability API,
+F,Ford Motor,Consumer Discretionary,2021,https://corporate.ford.com/about/purpose/www/,,,20210701,missing,No closest snapshot found from Wayback Availability API,
+F,Ford Motor,Consumer Discretionary,2022,https://corporate.ford.com/about/purpose/www/,,,20220701,missing,No closest snapshot found from Wayback Availability API,
+F,Ford Motor,Consumer Discretionary,2023,https://corporate.ford.com/about/purpose/www/,,,20230701,missing,No closest snapshot found from Wayback Availability API,
+F,Ford Motor,Consumer Discretionary,2024,https://corporate.ford.com/about/purpose/www/,,,20240701,missing,No closest snapshot found from Wayback Availability API,
+XOM,ExxonMobil,Energy,2016,https://corporate.exxonmobil.com/who-we-are,20230418190514,http://web.archive.org/web/20230418190514/https://corporate.exxonmobil.com/who-we-are,20160701,found,,200
+XOM,ExxonMobil,Energy,2017,https://corporate.exxonmobil.com/who-we-are,20230418190514,http://web.archive.org/web/20230418190514/https://corporate.exxonmobil.com/who-we-are,20170701,found,,200
+XOM,ExxonMobil,Energy,2018,https://corporate.exxonmobil.com/who-we-are,20230418190514,http://web.archive.org/web/20230418190514/https://corporate.exxonmobil.com/who-we-are,20180701,found,,200
+XOM,ExxonMobil,Energy,2019,https://corporate.exxonmobil.com/who-we-are,20230418190514,http://web.archive.org/web/20230418190514/https://corporate.exxonmobil.com/who-we-are,20190701,found,,200
+XOM,ExxonMobil,Energy,2020,https://corporate.exxonmobil.com/who-we-are,20230418190514,http://web.archive.org/web/20230418190514/https://corporate.exxonmobil.com/who-we-are,20200701,found,,200
+XOM,ExxonMobil,Energy,2021,https://corporate.exxonmobil.com/who-we-are,20230418190514,http://web.archive.org/web/20230418190514/https://corporate.exxonmobil.com/who-we-are,20210701,found,,200
+XOM,ExxonMobil,Energy,2022,https://corporate.exxonmobil.com/who-we-are,20230418190514,http://web.archive.org/web/20230418190514/https://corporate.exxonmobil.com/who-we-are,20220701,found,,200
+XOM,ExxonMobil,Energy,2023,https://corporate.exxonmobil.com/who-we-are,20230606135508,http://web.archive.org/web/20230606135508/https://corporate.exxonmobil.com/who-we-are,20230701,found,,200
+XOM,ExxonMobil,Energy,2024,https://corporate.exxonmobil.com/who-we-are,,,20240701,missing,No closest snapshot found from Wayback Availability API,
+CVX,Chevron,Energy,2016,https://www.chevron.com/who-we-are/culture/the-chevron-way,,,20160701,missing,No closest snapshot found from Wayback Availability API,
+CVX,Chevron,Energy,2017,https://www.chevron.com/who-we-are/culture/the-chevron-way,20231214131749,http://web.archive.org/web/20231214131749/https://www.chevron.com/who-we-are/culture/the-chevron-way,20170701,found,,200
+CVX,Chevron,Energy,2018,https://www.chevron.com/who-we-are/culture/the-chevron-way,20231214131749,http://web.archive.org/web/20231214131749/https://www.chevron.com/who-we-are/culture/the-chevron-way,20180701,found,,200
+CVX,Chevron,Energy,2019,https://www.chevron.com/who-we-are/culture/the-chevron-way,20231214131749,http://web.archive.org/web/20231214131749/https://www.chevron.com/who-we-are/culture/the-chevron-way,20190701,found,,200
+CVX,Chevron,Energy,2020,https://www.chevron.com/who-we-are/culture/the-chevron-way,20231214131749,http://web.archive.org/web/20231214131749/https://www.chevron.com/who-we-are/culture/the-chevron-way,20200701,found,,200
+CVX,Chevron,Energy,2021,https://www.chevron.com/who-we-are/culture/the-chevron-way,20231214131749,http://web.archive.org/web/20231214131749/https://www.chevron.com/who-we-are/culture/the-chevron-way,20210701,found,,200
+CVX,Chevron,Energy,2022,https://www.chevron.com/who-we-are/culture/the-chevron-way,,,20220701,missing,No closest snapshot found from Wayback Availability API,
+CVX,Chevron,Energy,2023,https://www.chevron.com/who-we-are/culture/the-chevron-way,,,20230701,missing,No closest snapshot found from Wayback Availability API,
+CVX,Chevron,Energy,2024,https://www.chevron.com/who-we-are/culture/the-chevron-way,,,20240701,missing,No closest snapshot found from Wayback Availability API,
+COP,ConocoPhillips,Energy,2016,https://www.conocophillips.com/about-us/who-we-are/,,,20160701,missing,No closest snapshot found from Wayback Availability API,
+COP,ConocoPhillips,Energy,2017,https://www.conocophillips.com/about-us/who-we-are/,,,20170701,missing,No closest snapshot found from Wayback Availability API,
+COP,ConocoPhillips,Energy,2018,https://www.conocophillips.com/about-us/who-we-are/,20190318004021,http://web.archive.org/web/20190318004021/http://www.conocophillips.com:80/about-us/who-we-are/,20180701,found,,200
+COP,ConocoPhillips,Energy,2019,https://www.conocophillips.com/about-us/who-we-are/,,,20190701,missing,No closest snapshot found from Wayback Availability API,
+COP,ConocoPhillips,Energy,2020,https://www.conocophillips.com/about-us/who-we-are/,20200627233450,http://web.archive.org/web/20200627233450/http://www.conocophillips.com:80/about-us/who-we-are/,20200701,found,,200
+COP,ConocoPhillips,Energy,2021,https://www.conocophillips.com/about-us/who-we-are/,20210818141347,http://web.archive.org/web/20210818141347/https://www.conocophillips.com/about-us/who-we-are/,20210701,found,,200
+COP,ConocoPhillips,Energy,2022,https://www.conocophillips.com/about-us/who-we-are/,20220606215658,http://web.archive.org/web/20220606215658/https://www.conocophillips.com/about-us/who-we-are/,20220701,found,,200
+COP,ConocoPhillips,Energy,2023,https://www.conocophillips.com/about-us/who-we-are/,20230703160456,http://web.archive.org/web/20230703160456/https://www.conocophillips.com/about-us/who-we-are/,20230701,found,,200
+COP,ConocoPhillips,Energy,2024,https://www.conocophillips.com/about-us/who-we-are/,20240703032242,http://web.archive.org/web/20240703032242/https://www.conocophillips.com/about-us/who-we-are/,20240701,found,,200
+EOG,EOG Resources,Energy,2016,https://www.eogresources.com/sustainability/,,,20160701,missing,No closest snapshot found from Wayback Availability API,
+EOG,EOG Resources,Energy,2017,https://www.eogresources.com/sustainability/,20181028064856,http://web.archive.org/web/20181028064856/http://www.eogresources.com:80/sustainability/,20170701,found,,200
+EOG,EOG Resources,Energy,2018,https://www.eogresources.com/sustainability/,,,20180701,missing,No closest snapshot found from Wayback Availability API,
+EOG,EOG Resources,Energy,2019,https://www.eogresources.com/sustainability/,,,20190701,missing,No closest snapshot found from Wayback Availability API,
+EOG,EOG Resources,Energy,2020,https://www.eogresources.com/sustainability/,,,20200701,missing,No closest snapshot found from Wayback Availability API,
+EOG,EOG Resources,Energy,2021,https://www.eogresources.com/sustainability/,20210628132605,http://web.archive.org/web/20210628132605/https://www.eogresources.com/sustainability/,20210701,found,,200
+EOG,EOG Resources,Energy,2022,https://www.eogresources.com/sustainability/,,,20220701,missing,No closest snapshot found from Wayback Availability API,
+EOG,EOG Resources,Energy,2023,https://www.eogresources.com/sustainability/,20230627235114,http://web.archive.org/web/20230627235114/https://www.eogresources.com/sustainability/,20230701,found,,200
+EOG,EOG Resources,Energy,2024,https://www.eogresources.com/sustainability/,20240614112702,http://web.archive.org/web/20240614112702/https://www.eogresources.com/sustainability/,20240701,found,,200
+SLB,SLB (Schlumberger),Energy,2016,https://www.slb.com/about/who-we-are,20221026181530,http://web.archive.org/web/20221026181530/https://www.slb.com/about/who-we-are,20160701,found,,200
+SLB,SLB (Schlumberger),Energy,2017,https://www.slb.com/about/who-we-are,20221026181530,http://web.archive.org/web/20221026181530/https://www.slb.com/about/who-we-are,20170701,found,,200
+SLB,SLB (Schlumberger),Energy,2018,https://www.slb.com/about/who-we-are,20221026181530,http://web.archive.org/web/20221026181530/https://www.slb.com/about/who-we-are,20180701,found,,200
+SLB,SLB (Schlumberger),Energy,2019,https://www.slb.com/about/who-we-are,,,20190701,missing,No closest snapshot found from Wayback Availability API,
+SLB,SLB (Schlumberger),Energy,2020,https://www.slb.com/about/who-we-are,20221026181530,http://web.archive.org/web/20221026181530/https://www.slb.com/about/who-we-are,20200701,found,,200
+SLB,SLB (Schlumberger),Energy,2021,https://www.slb.com/about/who-we-are,20221026181530,http://web.archive.org/web/20221026181530/https://www.slb.com/about/who-we-are,20210701,found,,200
+SLB,SLB (Schlumberger),Energy,2022,https://www.slb.com/about/who-we-are,20221026181530,http://web.archive.org/web/20221026181530/https://www.slb.com/about/who-we-are,20220701,found,,200
+SLB,SLB (Schlumberger),Energy,2023,https://www.slb.com/about/who-we-are,20230701125507,http://web.archive.org/web/20230701125507/https://www.slb.com/about/who-we-are,20230701,found,,200
+SLB,SLB (Schlumberger),Energy,2024,https://www.slb.com/about/who-we-are,,,20240701,missing,No closest snapshot found from Wayback Availability API,
+MPC,Marathon Petroleum,Energy,2016,https://www.marathonpetroleum.com/About/Our-Values/,,,20160701,missing,No closest snapshot found from Wayback Availability API,
+MPC,Marathon Petroleum,Energy,2017,https://www.marathonpetroleum.com/About/Our-Values/,20190620170933,http://web.archive.org/web/20190620170933/https://www.marathonpetroleum.com/About/Our-Values/,20170701,found,,200
+MPC,Marathon Petroleum,Energy,2018,https://www.marathonpetroleum.com/About/Our-Values/,,,20180701,missing,No closest snapshot found from Wayback Availability API,
+MPC,Marathon Petroleum,Energy,2019,https://www.marathonpetroleum.com/About/Our-Values/,20190620170933,http://web.archive.org/web/20190620170933/https://www.marathonpetroleum.com/About/Our-Values/,20190701,found,,200
+MPC,Marathon Petroleum,Energy,2020,https://www.marathonpetroleum.com/About/Our-Values/,20200718084119,http://web.archive.org/web/20200718084119/https://www.marathonpetroleum.com/About/Our-Values/,20200701,found,,200
+MPC,Marathon Petroleum,Energy,2021,https://www.marathonpetroleum.com/About/Our-Values/,20210614144801,http://web.archive.org/web/20210614144801/https://www.marathonpetroleum.com/About/Our-Values/,20210701,found,,200
+MPC,Marathon Petroleum,Energy,2022,https://www.marathonpetroleum.com/About/Our-Values/,20220620002238,http://web.archive.org/web/20220620002238/https://www.marathonpetroleum.com/About/Our-Values/,20220701,found,,200
+MPC,Marathon Petroleum,Energy,2023,https://www.marathonpetroleum.com/About/Our-Values/,20230518021652,http://web.archive.org/web/20230518021652/https://www.marathonpetroleum.com/About/Our-Values/,20230701,found,,200
+MPC,Marathon Petroleum,Energy,2024,https://www.marathonpetroleum.com/About/Our-Values/,20240714011023,http://web.archive.org/web/20240714011023/https://www.marathonpetroleum.com/About/Our-Values/,20240701,found,,200
+PSX,Phillips 66,Energy,2016,https://www.phillips66.com/our-people/,,,20160701,missing,No closest snapshot found from Wayback Availability API,
+PSX,Phillips 66,Energy,2017,https://www.phillips66.com/our-people/,20210311160102,http://web.archive.org/web/20210311160102/https://www.phillips66.com/our-people,20170701,found,,200
+PSX,Phillips 66,Energy,2018,https://www.phillips66.com/our-people/,20210311160102,http://web.archive.org/web/20210311160102/https://www.phillips66.com/our-people,20180701,found,,200
+PSX,Phillips 66,Energy,2019,https://www.phillips66.com/our-people/,20210311160102,http://web.archive.org/web/20210311160102/https://www.phillips66.com/our-people,20190701,found,,200
+PSX,Phillips 66,Energy,2020,https://www.phillips66.com/our-people/,20210311160102,http://web.archive.org/web/20210311160102/https://www.phillips66.com/our-people,20200701,found,,200
+PSX,Phillips 66,Energy,2021,https://www.phillips66.com/our-people/,,,20210701,missing,No closest snapshot found from Wayback Availability API,
+PSX,Phillips 66,Energy,2022,https://www.phillips66.com/our-people/,20220703043525,http://web.archive.org/web/20220703043525/https://www.phillips66.com/our-people,20220701,found,,200
+PSX,Phillips 66,Energy,2023,https://www.phillips66.com/our-people/,,,20230701,missing,No closest snapshot found from Wayback Availability API,
+PSX,Phillips 66,Energy,2024,https://www.phillips66.com/our-people/,,,20240701,missing,No closest snapshot found from Wayback Availability API,
+VLO,Valero Energy,Energy,2016,https://www.valero.com/about,20201126153724,http://web.archive.org/web/20201126153724/https://www.valero.com/about,20160701,found,,200
+VLO,Valero Energy,Energy,2017,https://www.valero.com/about,,,20170701,missing,No closest snapshot found from Wayback Availability API,
+VLO,Valero Energy,Energy,2018,https://www.valero.com/about,20201126153724,http://web.archive.org/web/20201126153724/https://www.valero.com/about,20180701,found,,200
+VLO,Valero Energy,Energy,2019,https://www.valero.com/about,,,20190701,missing,No closest snapshot found from Wayback Availability API,
+VLO,Valero Energy,Energy,2020,https://www.valero.com/about,,,20200701,missing,No closest snapshot found from Wayback Availability API,
+VLO,Valero Energy,Energy,2021,https://www.valero.com/about,,,20210701,missing,No closest snapshot found from Wayback Availability API,
+VLO,Valero Energy,Energy,2022,https://www.valero.com/about,,,20220701,missing,No closest snapshot found from Wayback Availability API,
+VLO,Valero Energy,Energy,2023,https://www.valero.com/about,20230628185731,http://web.archive.org/web/20230628185731/https://www.valero.com/about,20230701,found,,200
+VLO,Valero Energy,Energy,2024,https://www.valero.com/about,20240701195229,http://web.archive.org/web/20240701195229/https://www.valero.com/about,20240701,found,,200
+OXY,Occidental Petroleum,Energy,2016,https://www.oxy.com/investors/governance/political-contributions-and-lobbying/,20211201084032,http://web.archive.org/web/20211201084032/https://www.oxy.com/investors/governance/political-contributions-and-lobbying/,20160701,found,,200
+OXY,Occidental Petroleum,Energy,2017,https://www.oxy.com/investors/governance/political-contributions-and-lobbying/,,,20170701,missing,No closest snapshot found from Wayback Availability API,
+OXY,Occidental Petroleum,Energy,2018,https://www.oxy.com/investors/governance/political-contributions-and-lobbying/,20211201084032,http://web.archive.org/web/20211201084032/https://www.oxy.com/investors/governance/political-contributions-and-lobbying/,20180701,found,,200
+OXY,Occidental Petroleum,Energy,2019,https://www.oxy.com/investors/governance/political-contributions-and-lobbying/,,,20190701,missing,No closest snapshot found from Wayback Availability API,
+OXY,Occidental Petroleum,Energy,2020,https://www.oxy.com/investors/governance/political-contributions-and-lobbying/,20211201084032,http://web.archive.org/web/20211201084032/https://www.oxy.com/investors/governance/political-contributions-and-lobbying/,20200701,found,,200
+OXY,Occidental Petroleum,Energy,2021,https://www.oxy.com/investors/governance/political-contributions-and-lobbying/,20211201084032,http://web.archive.org/web/20211201084032/https://www.oxy.com/investors/governance/political-contributions-and-lobbying/,20210701,found,,200
+OXY,Occidental Petroleum,Energy,2022,https://www.oxy.com/investors/governance/political-contributions-and-lobbying/,,,20220701,missing,No closest snapshot found from Wayback Availability API,
+OXY,Occidental Petroleum,Energy,2023,https://www.oxy.com/investors/governance/political-contributions-and-lobbying/,20230620222933,http://web.archive.org/web/20230620222933/https://www.oxy.com/investors/governance/political-contributions-and-lobbying/,20230701,found,,200
+OXY,Occidental Petroleum,Energy,2024,https://www.oxy.com/investors/governance/political-contributions-and-lobbying/,20240615222450,http://web.archive.org/web/20240615222450/https://www.oxy.com/investors/governance/political-contributions-and-lobbying/,20240701,found,,200
+HAL,Halliburton,Energy,2016,https://www.halliburton.com/en/sustainability/guiding-principles,,,20160701,missing,No closest snapshot found from Wayback Availability API,
+HAL,Halliburton,Energy,2017,https://www.halliburton.com/en/sustainability/guiding-principles,,,20170701,missing,No closest snapshot found from Wayback Availability API,
+HAL,Halliburton,Energy,2018,https://www.halliburton.com/en/sustainability/guiding-principles,20210422180914,http://web.archive.org/web/20210422180914/https://www.halliburton.com/en/sustainability/guiding-principles,20180701,found,,200
+HAL,Halliburton,Energy,2019,https://www.halliburton.com/en/sustainability/guiding-principles,,,20190701,missing,No closest snapshot found from Wayback Availability API,
+HAL,Halliburton,Energy,2020,https://www.halliburton.com/en/sustainability/guiding-principles,,,20200701,missing,No closest snapshot found from Wayback Availability API,
+HAL,Halliburton,Energy,2021,https://www.halliburton.com/en/sustainability/guiding-principles,20210725200142,http://web.archive.org/web/20210725200142/https://www.halliburton.com/en/sustainability/guiding-principles,20210701,found,,200
+HAL,Halliburton,Energy,2022,https://www.halliburton.com/en/sustainability/guiding-principles,20220706232615,http://web.archive.org/web/20220706232615/https://www.halliburton.com/en/sustainability/guiding-principles,20220701,found,,200
+HAL,Halliburton,Energy,2023,https://www.halliburton.com/en/sustainability/guiding-principles,20230904223205,http://web.archive.org/web/20230904223205/https://www.halliburton.com/en/sustainability/guiding-principles,20230701,found,,200
+HAL,Halliburton,Energy,2024,https://www.halliburton.com/en/sustainability/guiding-principles,,,20240701,missing,No closest snapshot found from Wayback Availability API,
